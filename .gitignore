@@ -1,0 +1,8 @@
+.bash_logout
+.bashrc
+.cache/
+.conda/
+.jupyter-server-log.txt
+.jupyter/
+.local/
+.profile
